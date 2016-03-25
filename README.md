@@ -12,9 +12,11 @@ Learn everything you need to know to get started building a MongoDB-based app. T
 * Week 6: Application Engineering
 * Week 7: Case Studies
 
-###Softwares or Technologies Used
-* Spark
-* Freemarker
+###Softwares Used
+* Spark 1.1.1
+* Freemarker 2.3.19
 * Json
-* Bson
 * MongoDB
+* Java 7
+* Maven 2
+* mongoProc 3.0+
